@@ -1,12 +1,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %filename: ss2_lab4_test_single_echo.m
-%Author: Johannah Rosenblum
+%Author: Johannah Rosenblum, Gianluca Veschi
 %Date: 25.06.2018
 %Description: 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %-------------------------------------------------------
-%           Part I Single Echo Test: Detla Pulse 
+%           Part I Single Echo Test: Delta Pulse 
 %-------------------------------------------------------
 %delta-pulse
 N = 100;

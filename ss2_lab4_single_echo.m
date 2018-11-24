@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %filename: ss2_lab4_single_echo.m
-%Author: Johannah Rosenblum
+%Author: Johannah Rosenblum, Gianluca Veschi
 %Date: 25.06.2018
 %Description: Is a function 
 % 

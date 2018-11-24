@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %filename: ss2_lab4_multi_echo.m
-%Author: Johannah Rosenblum
+%Author: Johannah Rosenblum, Gianluca Veschi
 %Date: 27.06.2018
 %Description:
 % 
